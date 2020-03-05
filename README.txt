@@ -1,4 +1,4 @@
-<a href="https://zenodo.org/badge/latestdoi/235926282"><img src="https://zenodo.org/badge/235926282.svg" alt="DOI"></a>
+[![DOI](https://zenodo.org/badge/235926282.svg)](https://zenodo.org/badge/latestdoi/235926282)
 
 This data is from August 13-23 of 2018 on the Saint-Symphorien suspension bridge over the Loire River in Tours, France (47.399158° N, 0.692519° E). This 350m pedestrian bridge consists of 324 individual metal side railing panels within which orb-weaving spiders (Family Araneidae) constructed webs. Bridge panels had an alternating lighting pattern; every other panel was lit from above by a blue fluorescent tube light, which was absent from the other panels. These two conditions acted as a natural block-on block-off design within I measured spider abundance, web-dimensions, prey capture success, and body condition. In artificially lit conditions, spiders caught more prey with smaller webs, and had higher body condition. However, there were fewer spiders with active webs in those lit areas. 
 
